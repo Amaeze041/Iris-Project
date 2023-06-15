@@ -1,0 +1,8 @@
+fastAPI
+pickle5
+uvicorn
+pydantic
+requests
+pypi-json
+scikit learn
+numpy
